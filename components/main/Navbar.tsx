@@ -43,7 +43,7 @@ export default function Navbar() {
 
         {/* Right: Get Started Button */}
         <Link
-          href="#start"
+          href="/auth"
           className="px-6 py-2.5 rounded-lg bg-gradient-to-b from-white/22 to-white/10 text-white no-underline font-semibold text-sm shadow-[inset_0_0_0_1px_rgba(255,255,255,.3),0_8px_24px_rgba(0,0,0,.15)] backdrop-blur-sm transition-all hover:from-white/28 hover:to-white/16 hover:-translate-y-px"
         >
           Get Started
